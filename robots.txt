@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MysticBravogithub.io/sitemap.xml
+Sitemap: https://MysticBravo.github.io/sitemap.xml
