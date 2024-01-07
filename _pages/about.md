@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 🔐Ethical Hacker 🧪Labs 🚩CTF 💻Programmer
 
 profile:
   align: right
@@ -18,7 +18,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-🔐Ethical Hacker 🧪Labs 🚩CTF 💻Programmer
+
 
 As a driven and ambitious individual pursuing a career in cybersecurity, I am constantly seeking new challenges and opportunities to expand my knowledge and skills.
 
