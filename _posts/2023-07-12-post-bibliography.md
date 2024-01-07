@@ -5,7 +5,7 @@ date: 2024-01-06 11:20:00-0400
 description: My FirtWebsite
 tags: formatting bib
 categories: sample-posts
-giscus_comments: true
+Disqus_comments: true
 related_posts: false
 related_publications:
 ---
