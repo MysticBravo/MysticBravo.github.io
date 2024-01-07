@@ -19,8 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+🌐 Ethical Hacker | 🔬 Labs | 🛡️ Cybersecurity
+As a driven and ambitious individual pursuing a career in cybersecurity, I am constantly seeking new challenges and opportunities to expand my knowledge and skills. My name is Braden, and I am currently based in Saskatoon, Sk Canada.
+From a young age, I have always been fascinated by technology and its impact on our daily lives. As I grew older, I became increasingly aware of the potential risks and threats posed by cybercrime. This sparked my interest in cybersecurity and led me to pursue a degree in this field. I am a strategic and analytical thinker, with a keen eye for detail and a passion for problem-solving. I thrive in fast-paced and dynamic environments and am always eager to learn and adapt to new technologies and techniques.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My ultimate goal is to be a part of a team that is dedicated to protecting organizations from cyber threats and ensuring a safe digital environment for all. I am highly motivated and determined to achieve this goal.
+
+🌐 Unleashing the power of ethical hacking to safeguard the digital realm. As a cybersecurity enthusiast, I thrive in the labs, constantly pushing boundaries to secure our online world. Let's connect and make the internet a safer place.
