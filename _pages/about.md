@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-🔐 Ethical Hacker|🧪 Labs|🚩 CTF|💻 Programmer
+🔐 Ethical Hacker|🧪 Labs|🚩 CTF|
 
 As a driven and ambitious individual pursuing a career in cybersecurity, I am constantly seeking new challenges and opportunities to expand my knowledge and skills. My name is Braden, and I am currently based in Saskatoon, Sk Canada.
 I am a strategic and analytical thinker, with a keen eye for detail and a passion for problem-solving. I thrive in fast-paced and dynamic environments and am always eager to learn and adapt to new technologies and techniques.
