@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Celebrating My First GitHub Website: A Journey Of Learning And Success.
+title: Celebrating My First GitHub Website A Journey Of Learning And Success.
 date: 2024-01-06 11:20:00-0400
 description: My FirtWebsite
 tags: formatting bib
