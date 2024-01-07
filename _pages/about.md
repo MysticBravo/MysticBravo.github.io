@@ -13,7 +13,7 @@ profile:
     <p>Box 362</p>
     <p>Clavet,Saskatchewan,S0K0Y0</p>
 
-![tryhackme stats](https://raw.githubusercontent.com/<brbk1999>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+ [tryhackme stats](https://raw.githubusercontent.com/<brbk1999>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 <img src="https://tryhackme-badges.s3.amazonaws.com/brbk1999.png" alt="TryHackMe">
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
